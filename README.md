@@ -2,6 +2,9 @@
 
 Title: Azure AutoScaling with Virtual Machine Scale Sets
 
+![image](https://github.com/21a91a6121/AZURE_AUTOSCALING/assets/98638809/21b1e78e-fb47-4f0b-9463-ccf7ba0358b4)
+
+
 Introduction:
 This project showcases the power of Azure technology by implementing auto-scaling for virtual machines using Virtual Machine Scale Sets. Through the Azure Portal, we created a dynamic environment capable of automatically adjusting the number of instances based on CPU usage. This project provides a comprehensive guide on scaling, alerting, and monitoring, which is invaluable for optimizing system performance.
 
